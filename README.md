@@ -5,3 +5,4 @@ Create a lot of visualizations, identify patterns on the data based on the survi
 column,
 Age column, Fare column, Gender Column, etc.
 Dataset Link: https://www.kaggle.com/competitions/titanic/data?select=train.csv
+KNN, Decision Tree, and RandomForest MLModels are used
